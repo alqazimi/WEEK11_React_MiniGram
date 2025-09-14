@@ -16,6 +16,20 @@ Welcome to Week 11! This week’s project is all about **React Components**, **S
   git checkout -b <your-firstname-lastname>
   ```
 
+- Install the project dependencies:
+
+  ```bash
+  npm install
+  ```
+
+- Start the development server:
+
+  ```bash
+  npm run dev
+  ```
+
+- Open your browser and navigate to the URL shown in the terminal (usually `http://localhost:5173`).
+
 - All the files you'll need are located in the `src` folder.
 
 ---
